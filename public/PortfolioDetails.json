@@ -1,0 +1,43 @@
+{ "services":
+     [
+        {
+          "_id": "61a5e21f604a4f0fa0a15d1f",
+          "title":"Seeds Net",
+          "picture": "https://i.postimg.cc/KzQ6xSG2/seeds-net-1.png",
+          "picture2":"https://i.postimg.cc/pX0Lk4z3/seeds-net-2.png",
+          "picture3":"https://i.postimg.cc/N0kVkqrH/seeds-net-3.png",
+          "link":"https://seeds-net.web.app/",
+          "category":"Full Stack projects",
+          "githubClient":"https://github.com/tashdit/seeds-net-client",
+          "githubServer":"https://github.com/tashdit/seeds-net-server",
+
+          "about": "This is a fully responsive web site based on MERN.It is an agricultural based e-commerce seed sales platform through which farmers can easily purchase seeds at low cost."
+        },
+        
+        {
+          "_id": "61a5e21f038efa5c8b5aab20",
+          "title":"Maxima Rids",
+          "picture":"https://i.postimg.cc/PxZBvpQd/maxima-1.png",
+          "picture2":"https://i.postimg.cc/vmnP0Rgz/maxima-2.png",
+          "picture3":"https://i.postimg.cc/dQ65Hj1z/maxima-3.png",
+          "link":"https://maxim-5d6d0.web.app/",
+          "category":"Full Stack projects",
+          "githubClient":"https://github.com/tashdit/maxima-rids-clients",
+          "githubServer":"https://github.com/tashdit/maxima-rids-server",
+          "about": "This is a fully responsive web site based on MERN.It is a gaming based e-commerce tickets sales platform through which Guardian can easily purchase any riges."
+        },
+        {
+          "_id": "61a5e21f914a096b096221b1",
+          "title":"MediLab",
+          "picture": "https://i.postimg.cc/0NhfSVVw/medilab-1.png",
+          "picture2": "https://i.postimg.cc/ZRk8nCqP/medilab-2.png",
+          "picture3": "https://i.postimg.cc/GtXTF2b5/medilab-3.png",
+          "link":"https://medilab-aeba8.web.app/",
+          "category":"Front End Projects",
+          "githubClient":"https://github.com/tashdit/MediLab",
+          "about": "It is a gaming based e-commerce tickets sales platform through which Guardian can easily purchase any riges"
+        }
+      ]
+
+    }
+    

@@ -1,0 +1,23 @@
+.header{
+    transition: all 0.5s;
+    z-index: 997;
+    padding: 20px 0;
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.nav-link{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 0;
+    margin-left: 20px;
+    white-space: nowrap;
+    transition: 0.3s;
+    letter-spacing: 0.4px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.nav-link:hover{
+    color: rgb(202, 189, 189);
+}

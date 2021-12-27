@@ -1,0 +1,94 @@
+
+/* ------/ socials-link /------ */
+.socials-link {
+  padding: 1.5rem 0;
+}
+.socials-link ul li {
+  display: inline-block;
+}
+.ico-circle {
+  height: 40px;
+  width: 80px;
+  font-size: 1.2rem;
+  padding: 5px 10px;
+  border-radius: 50%;
+  line-height: 1.6;
+  margin: 0 15px 0 0;
+  box-shadow: 0 0 0 3px #0078ff;
+  transition: all 500ms ease;
+}
+.socials-link .ico-circle:hover {
+  background-color: #0078ff;
+  color: #fff;
+  box-shadow: 0 0 0 3px #cde1f8;
+  transition: all 500ms ease;
+}
+
+.socials-link ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.list-ico > li{
+  list-style: none;
+  line-height: 2;
+}
+.list-ico i {
+  color: #0078ff;
+  margin-right: 10px;
+}
+
+
+
+
+.footer-paralax {
+    padding: 4rem 0 0 0;
+  }
+
+  .contact-bg{
+    background-image: url(../../images/overlay-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .contact-mf {
+    margin-top: 4rem;
+  }
+  @media (min-width: 767px) {
+    .contact-mf .box-pl2 {
+      margin-top: 3rem;
+      padding-left: 0rem;
+    }
+  }
+  
+
+
+  .php-email-form input, .php-email-form textarea {
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+  }
+  .php-email-form input:focus, .php-email-form textarea:focus {
+    border-color: #0078ff;
+  }
+  .php-email-form input {
+    padding: 10px 15px;
+  }
+  .php-email-form textarea {
+    padding: 12px 15px;
+    margin-bottom: 0;
+  }
+  .php-email-form button[type=submit] {
+    background: #0078ff;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+  }
+  .php-email-form button[type=submit]:hover {
+    background: #3393ff;
+  }
+  
